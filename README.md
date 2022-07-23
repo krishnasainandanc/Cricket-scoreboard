@@ -12,6 +12,6 @@
 
 # Below is the video to see demo of project
 
-    -> Part-1 https://drive.google.com/file/d/1M914SMeuI17HnfBAHtiA-SeEaixV7Kv1/view?usp=sharing
+    -> Part-1 [ https://drive.google.com/file/d/1M914SMeuI17HnfBAHtiA-SeEaixV7Kv1/view?usp=sharing ]
 
 
